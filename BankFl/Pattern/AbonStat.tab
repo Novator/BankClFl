@@ -1,0 +1,11 @@
+[titles]
+;abIder=Идер
+abLogin=Логин|65
+abNode=Узел|32
+abType=Т
+abLock=Б
+abName=Корреспондент|220
+abAccCount=Счета
+abInDocCount=Входящие
+;abOutDocCount=Исходящие
+abDebSum=Сумма вход.|R84

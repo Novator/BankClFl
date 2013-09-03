@@ -1,0 +1,7 @@
+RECT(0,0,179,5)
+PARAGRAPH(3,1,100,20,16,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0','Итого счетов: '+$acAccCount)
+PARAGRAPH(86,1,109,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$acTotalDebet)
+PARAGRAPH(110,1,132,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$acTotalCredit)
+PARAGRAPH(133,1,155,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$acTotalAct)
+PARAGRAPH(156,1,178,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$acTotalPas)
+PARAGRAPH(1,7,150,20,16,'Arial Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$acDate+' '+$acTime)

@@ -1,0 +1,2 @@
+PARAGRAPH(1,8,170,13,2,'Arial Cyr|32|0|0|0|700|0|0|0|0|0|0|0|0', 'Страница '+$PageNumber+' из '+$PageCount)
+;LINE(0,5,100,5)

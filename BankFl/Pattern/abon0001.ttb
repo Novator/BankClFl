@@ -1,0 +1,13 @@
+{K:0;K:3;LM:1}                      ▒Б═Б╗АБ╗╙═ ╞╝ ═║╝╜╔╜Б═╛ ╖═ {V:$asOtchDate;F:$asOtchDate}
+зддддддддбддддбдбдбддддддддддддддддддддддддддддддддддддддддбддддддбддддддбддддддддддддддд©
+Ё ▀╝ё╗╜  Ё⌠╖╔╚Ё▓Ё│Ё ┼╝ЮЮ╔А╞╝╜╓╔╜Б                          Ё▒Г╔Б═ Ё┌Е╝╓ОИЁ ▌║╝Ю╝Б        Ё
+цддддддддеддддедедеддддддддддддддддддддддддддддддддддддддддеддддддеддддддеддддддддддддддд╢
+{$S:{V:abLogin;V:abNode;V:abType;V:abLock;V:abName;V:abAccCount;V:abInDocCount;
+V:abDebSum}Ё{F:abLogin#8}Ё{F:abNode#4}Ё{F:abType#1}Ё{F:abLock#1}Ё{F:abName#40}Ё{F:abAccCount#R6}Ё{F:abInDocCount#R6}Ё{F:abDebSum#R15}Ё
+$}{L:1;
+V:$asAccCount;V:$asInDocCount;V:$asSumDeb
+}цддддддддаддддадададдддддддддддддддддддддддддддддддддддддддеддддддеддддддеддддддддддддддд╢
+Ё┬Б╝ё╝:                                                    Ё{F:$asAccCount#R6}Ё{F:$asInDocCount#R6}Ё{F:$asSumDeb#R15}Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддаддддддаддддддаддддддддддддддды
+
+{V:$asDate;F:$asDate}  {V:$asTime;F:$asTime}

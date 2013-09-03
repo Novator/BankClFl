@@ -1,0 +1,13 @@
+[common]
+header=rees0001.hdr
+footer=rees0001.ftr
+font=Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+Date=Дата,18
+Number=Номер,12
+PAcc=Счет плательщика,39
+RAcc=Счет получателя,39
+Sum=Сумма,19
+Nazn=Содержание,60

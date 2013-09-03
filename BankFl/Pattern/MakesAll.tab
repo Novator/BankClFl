@@ -1,0 +1,8 @@
+[titles]
+Number=Счет
+Name=Наименование счета|200
+;Ider=Идер счета
+Debet=Дебет|R70
+Credit=Кредит|R70
+Amount=Остаток|R70
+BillAmount=Факт.ост.|R70

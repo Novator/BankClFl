@@ -1,0 +1,14 @@
+[titles]
+spNameS=Отправитель
+spNameR=Получатель
+spFlRcv=П
+;spByteS=КБ
+spLength=Длина
+;spWordS=КС
+spNum=Num
+spIder=Ид-р
+;spFlSnd=ФлагО
+spDateS=ДатаО
+spTimeS=ВремяО
+spDataR=ДатаП
+spTimeR=ВремяП

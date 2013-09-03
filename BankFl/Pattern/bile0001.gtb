@@ -1,0 +1,16 @@
+[common]
+header=bill0001.hdr
+footer=bile0001.ftr
+font=Times New Roman Cyr|35|0|0|0|0|0|0|0|0|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+Date=Дата,18
+Number=N оп,10
+Acc=Счет корреспондента,37
+Type=ВО,7
+DebitSum=Дебет,23
+CreditSum=Кредит,23
+Nazn=Содержание,63
+Name=Название,60
+Inn=ИНН,25

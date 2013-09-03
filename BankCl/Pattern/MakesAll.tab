@@ -1,0 +1,8 @@
+[titles]
+Number=Счет
+Name=Наименование счета|180
+;Ider=Идер счета
+Debet=Дебет|R
+Credit=Кредит|R
+Active=Актив|R
+Passive=Пассив|R

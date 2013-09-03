@@ -1,0 +1,11 @@
+[titles]
+;OrderNum=N|18
+Date=Дата
+Number=N оп
+Acc=Счет корреспондента
+Type=ВО
+Sum=Сумма|R
+Nazn=Содержание
+;Name=Имя корреспондента|200
+;Inn=ИНН корр.
+;DocIder=Ид-р документа

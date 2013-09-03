@@ -1,0 +1,14 @@
+[common]
+header=kart0001.hdr
+footer=kart0001.ftr
+pager=page0001.hdr
+font=Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+Date=Дата,19
+Number=N оп,10
+Acc=Счет корреспондента,37
+Type=ВО,7
+Sum=Сумма,23
+Nazn=Содержание,86

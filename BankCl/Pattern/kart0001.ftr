@@ -1,0 +1,4 @@
+RECT(0,0,182,5)
+PARAGRAPH(1,1,100,7,16,'Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0','Итого:')
+PARAGRAPH(71,1,94,7,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0',$ktDebet)
+PARAGRAPH(3,8,150,20,16,'Arial Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0',$bcDate1+' '+$bcTime)

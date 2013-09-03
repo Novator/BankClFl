@@ -1,0 +1,11 @@
+[common]
+header=accn0001.hdr
+footer=accn0001.ftr
+font=Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+arAccount=Номер счета,37
+arOpts=Тип,7
+arName=Название,60
+arSumA=Остаток,25

@@ -1,0 +1,6 @@
+RECT(0,0,182,5)
+PARAGRAPH(3,1,100,5,16,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0','Итого:')
+PARAGRAPH(116,1,140,5,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$asAccCount)
+PARAGRAPH(141,1,158,5,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$asInDocCount)
+PARAGRAPH(159,1,181,5,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$asSumDeb)
+PARAGRAPH(3,9,150,15,16,'Arial Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0',$asDate+' '+$asTime)

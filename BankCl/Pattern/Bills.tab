@@ -1,0 +1,32 @@
+[fields]
+brIder=ftInteger, 0, False, 0
+brDocId=ftInteger, 0, False, 1
+brDate=ftString, 10, False, 2
+brVersion=ftInteger, 0, False, 3
+brState=ftString, 15, False, 4
+brDel=ftString, 12, False, 5
+brPrizn=ftInteger, 0, False, 6
+brType=ftInteger, 0, False, 7
+brNumber=ftInteger, 0, False, 8
+brAccD=ftString, 20, False, 9
+brAccC=ftString, 20, False, 10
+brSum=ftString, 15, False, 11
+brText=ftString, 60, False, 12
+brRet=ftString, 30, False, 13
+
+[titles]
+brIder=Идер
+brDocId=Идер док
+brDate=Дата оп
+brVersion=Версия
+brState=Статус
+brDel=Удалена
+brPrizn=Тип
+
+brType=ВО
+brNumber=Номер
+brAccD=Дебет
+brAccC=Кредит
+brSum=Сумма
+brText=Содержание
+brRet=Причина возврата

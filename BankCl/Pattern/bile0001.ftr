@@ -1,0 +1,6 @@
+RECT(0,0,269,5)
+PARAGRAPH(1,1,100,20,16,'Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0','Итого:')
+PARAGRAPH(71,1,94,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0',$bcDebet)
+PARAGRAPH(94,1,117,20,2,'Times New Roman Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0',$bcCredit)
+PARAGRAPH(3,8,150,20,16,'Arial Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0','Исходящий остаток '+$bcOstOut)
+PARAGRAPH(3,14,150,20,16,'Arial Cyr|35|0|0|0|700|0|0|0|204|0|0|0|0',$bcDate+' '+$bcTime)

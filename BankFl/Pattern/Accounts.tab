@@ -1,0 +1,21 @@
+[titles]
+arAccount=Номер счета
+Login=Позывной|65
+arName=Название|220
+arSumA=Остаток|R65
+arOpts=Тип
+arDateO=Дата откр|R60
+arSumS=Нач остаток|R65
+arDateC=Дата закр|R60
+arLock=Б
+arIder=Идер счета
+arCorr=Корреспондент
+;arVersion=Номер версии
+[columns]
+arAccount=
+arName=
+arSumA=
+arSumS=
+arDateO=
+arDateC=
+[font]

@@ -1,0 +1,17 @@
+[common]
+header=abon0001.hdr
+footer=abon0001.ftr
+pager=+page0001.hdr
+font=Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+abLogin=Логин,23
+abNode=Узел,10
+abType=Т,5
+abLock=Б,5
+abName=Корреспондент,87
+abAccCount=Счета,11
+abInDocCount=Входящие,18
+;abOutDocCount=Исходящие
+abDebSum=Сумма вх.,23

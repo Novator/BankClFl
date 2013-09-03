@@ -1,0 +1,13 @@
+[common]
+header=accw0001.hdr
+footer=accw0001.ftr
+font=Times New Roman Cyr|35|0|0|0|700|0|0|0|0|0|0|0|0
+pen=0|3|$000000
+
+[columns]
+Number=Счет,37
+Name=Наименование счета,50
+Debet=Дебет,23
+Credit=Кредит,23
+Active=Актив,23
+Passive=Пассив,23

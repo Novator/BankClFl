@@ -1,0 +1,19 @@
+[titles]
+arAccount=Номер счета
+arName=Название|250
+arOpts=Тип
+arSumA=Остаток|R
+arDateO=Дата откр|R
+arSumS=Нач остаток|R
+arDateC=Дата закр|R
+;arIder=Идер счета
+;arCorr=Корреспондент
+;arVersion=Номер версии
+[columns]
+arAccount=
+arName=
+arSumA=
+arSumS=
+arDateO=
+arDateC=
+[font]

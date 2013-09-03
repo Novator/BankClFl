@@ -1,0 +1,13 @@
+[titles]
+erIder=Идер здесь
+;erIdKorr=Идер у корреспондента
+;erSender=Идер отправителя
+;erIdCurO=Идер тек. исх.
+;erIdArcO=Идер арх. исх.
+;erIdCurI=Идер тек. вход.
+;erIdArcI=Идер арх. вход.
+erCapt=Тема|450
+erState=Состояние
+;erAdr=Адресат
+;erMes=Сообщение
+erAdrName=Адресат|65
